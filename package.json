@@ -1,0 +1,19 @@
+{
+  "name": "thisthingdoesnotexistbot",
+  "version": "0.0.1",
+  "description": "Discord bot that posts AI generated things",
+  "main": "index.js",
+  "author": "Jonathan Pugh",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonnyPugh/thisthingdoesnotexist-discord.git"
+  }
+}
